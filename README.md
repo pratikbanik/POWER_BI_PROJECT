@@ -2,11 +2,11 @@
 
 ## Overview
 
-    This project visualizes stock market trends through a dynamic Power BI dashboard, leveraging the Alpha Vantage API for comprehensive stock-related insights.
+This project visualizes stock market trends through a dynamic Power BI dashboard, leveraging the Alpha Vantage API for comprehensive stock-related insights.
 
 ## Purpose
 
-    The Stock Market Dashboard enhances decision-making for investors and analysts by providing a consolidated view of stock trends, financial performance, and news.
+The Stock Market Dashboard enhances decision-making for investors and analysts by providing a consolidated view of stock trends, financial performance, and news.
 
 
 ## Technologies Used
@@ -50,7 +50,7 @@
 
 ### Alpha Vantage API
 
-    The Alpha Vantage API is utilized as the main data source for stock market information. Alpha Vantage offers a comprehensive set of financial APIs for retrieving historical and real-time stock data, technical indicators, and other financial information. The API allows the project to access key stock market metrics and enhance the dashboard with up-to-date and relevant data.
+The Alpha Vantage API is utilized as the main data source for stock market information. Alpha Vantage offers a comprehensive set of financial APIs for retrieving historical and real-time stock data, technical indicators, and other financial information. The API allows the project to access key stock market metrics and enhance the dashboard with up-to-date and relevant data.
 
 
 ## Data Processing
@@ -256,4 +256,4 @@
 
 ## Conclusion
 
-    The Stock Market Dashboard is a valuable tool for navigating the complexities of the stock market. Thank you for using the dashboard!
+The Stock Market Dashboard is a valuable tool for navigating the complexities of the stock market. Thank you for using the dashboard!
